@@ -1,0 +1,8 @@
+﻿Models;Context;Prompt (for 1,000 tokens);Completion (per 1,000 tokens)
+GPT-3.5-Turbo;4K;$0.0015;$0.002
+GPT-3.5-Turbo;16K;$0.003;$0.004
+GPT-3.5-Turbo-1106;16K;$0.001;$0.002
+GPT-4-Turbo;128K;$0.01;$0.03
+GPT-4-Turbo-Vision;128K;$0.01;$0.03
+GPT-4;8K;$0.03;$0.06
+GPT-4;32K;$0.06;$0.12
