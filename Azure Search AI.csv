@@ -1,0 +1,8 @@
+﻿;Free;Basic;Standard S1
+Storage;50 MB;2 GB;25 GB
+;;;(max 300 GB per service)
+Max indexes per service;3;15;50
+Scale out limits;N/A;Up to 3 units per service;Up to 36 units per service
+;;"(max 1 partition; max 3 replicas)";"(max 12 partition; max 12 replicas)"
+;;;
+Price per SU (Scale Unit);$0/hour;$0.11/hour;$0.34/hour
